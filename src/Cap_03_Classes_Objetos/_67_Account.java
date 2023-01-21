@@ -5,6 +5,7 @@ public class _67_Account {
     private String nome;
     private double balanco;
 
+    // Construtor de Account que recebe dois parâmetros
     public _67_Account(String nome, double balanco) {
         this.nome = nome;
 
@@ -30,7 +31,8 @@ public class _67_Account {
 
     // metodo que retorna o nome
     public String getNome() {
-        return nome;  // retorna o valor do chamador
+
+        return nome;
     }
 
 
