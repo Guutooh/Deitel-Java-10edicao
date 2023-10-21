@@ -54,5 +54,11 @@ Meu objetivo ao ao aplicar as praticas contidas no livro é aperfeiçoar conceit
 - Capítulo 23 Concorrência
 - Capítulo 24 Acesso a bancos de dados com JDBC
 
+### Link Repositório com o código-fonte original do livro - Java Como Programar 10º Edição
+
+- http://www.deitel.com/Books/Java/JavaHowtoProgram10eEarlyObjects/tabid/3656/Default.aspx
+
 #### Obrigado por explorar meu repositório! Se você está aprendendo Java também, sinta-se à vontade para contribuir ou fornecer feedback. Vamos aprender juntos!
+
+
 
