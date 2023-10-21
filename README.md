@@ -17,8 +17,7 @@ Meu objetivo ao ao aplicar as praticas contidas no livro é aperfeiçoar conceit
 
 - **Capítulos:** Cada capítulo possui uma pasta correspondente com a reprodução dos conceitos abordados.
   
-- **Capítulos:** Cada capítulo possui uma pasta correspondente com a reprodução dos conceitos abordados.
-  
+
   - Padrão de nomenclatura para melhor organização do autor:
     
     - `_Nº página_Classe`
