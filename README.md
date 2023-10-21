@@ -30,7 +30,7 @@ Meu objetivo ao ao aplicar as praticas contidas no livro é aperfeiçoar conceit
   - `_57_Account`
   - `_59_Account_Test`
   
-### Os conceitos explorados no livro serão:
+### Conceitos que serão explorados no livro:
 
 - Capítulo 1: Introdução a computadores, internet e Java
 - Capítulo 2 Introdução a aplicativos Java
