@@ -2,7 +2,7 @@ package Cap_03_Classes_Objetos;
 
 import java.util.Scanner;
 
-public class _68_AccountTest {
+public class _68_Account_Test {
 
     public static void main(String[] args) {
 

@@ -2,7 +2,7 @@ package Cap_03_Classes_Objetos;
 
 
 
-public class _65_AccountTest {
+public class _65_Account_Test {
     public static void main(String[] args) {
         
         _64_Account account1 = new _64_Account("Jane Green");
