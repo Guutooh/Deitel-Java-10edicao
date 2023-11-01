@@ -1,4 +1,4 @@
-package Cap_04_Instruções_de_controle_parte_1_operadores_de_atribuição;
+package Cap_04_Instrucao_de_controle_parte_1_operadores_de_atribuição;
 
 public class _103_Increment {
     public static void main(String[] args) {
