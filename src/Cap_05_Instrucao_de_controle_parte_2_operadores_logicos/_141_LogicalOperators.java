@@ -31,6 +31,7 @@ public class _141_LogicalOperators {
                  "true | false", (true | false),
                  "true | true", (true | true));
 
+
          // cria a tabela-verdade para o operador ^ (OU exclusivo lógico booleano)
          System.out.printf("%s%n%s: %b%n%s: %b%n%s: %b%n%s: %b%n%n",
                  "Boolean logical exclusive OR (^)",
