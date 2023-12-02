@@ -21,6 +21,5 @@ public class _169_RandomIntegers {
                 System.out.println();
             }
         }
-
     }
 }
